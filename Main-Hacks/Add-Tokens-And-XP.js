@@ -5,7 +5,7 @@ function footer() {
     let element = document.createElement('div');
 
     element.style = `font-family: "Nunito", sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(15, 15, 15); background: rgb(240, 240, 240); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;`;
-    element.innerHTML = `<p>Made by e1du <br> My <a style="color: #0000ff;" href="https://github.com/e1du" target="_blank">GitHub</a></p>`;
+    element.innerHTML = `<p>Made by the underground devs <br> My <a style="color: #0000ff;" href="https://www.youtube.com/channel/UCq5dzZ4WqLeQHrNE2qiiVXw" target="_blank">Youtube</a></p>`;
     document.body.appendChild(element);
 
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
